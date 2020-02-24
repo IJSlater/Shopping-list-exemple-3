@@ -1,0 +1,5 @@
+C:\Users\islater\source\repos\Shopping List\Shopping List\obj\Debug\netcoreapp3.1\AdditemControl.g.cs
+C:\Users\islater\source\repos\Shopping List\Shopping List\obj\Debug\netcoreapp3.1\UserControl1.g.cs
+C:\Users\islater\source\repos\Shopping List\Shopping List\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\islater\source\repos\Shopping List\Shopping List\obj\Debug\netcoreapp3.1\Shopping List_MarkupCompile.cache
+C:\Users\islater\source\repos\Shopping List\Shopping List\obj\Debug\netcoreapp3.1\Shopping List_MarkupCompile.lref
